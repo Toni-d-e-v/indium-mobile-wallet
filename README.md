@@ -1,5 +1,10 @@
 # Indium mobile wallet
 
+![Download Count](https://img.shields.io/github/downloads/IndiumCrypto/indium-mobile-wallet/total.svg)
+![Open Issue Count](https://img.shields.io/github/issues/IndiumCrypto/indium-mobile-wallet)
+![License](https://img.shields.io/github/license/IndiumCrypto/indium-mobile-wallet)
+![Version](https://img.shields.io/github/v/release/IndiumCrypto/indium-mobile-wallet)
+
 ### Initial Setup
 
 * `cd indium-mobile-wallet`
