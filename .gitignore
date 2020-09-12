@@ -1,0 +1,7 @@
+android/app/build
+android/app/.externalNativeBuild
+android/.gradle
+.idea
+android/build
+ios/sentry.properties
+android/app/my-release-key.keystore
